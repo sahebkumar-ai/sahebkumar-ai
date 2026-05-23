@@ -29,8 +29,4 @@ Currently exploring Machine Learning, Deep Learning, NLP, and Generative AI
 - Python
 - MLOps
 
-- LinkedIn: https://www.linkedin.com/in/saheb-kumar-0b52963ab/
-- Kaggle:https://www.kaggle.com/sahebkumaryadav
-- Email: sahebkumaryadav91550@gmail.com
-
 I love learning new technologies and building real-world AI projects.!--
