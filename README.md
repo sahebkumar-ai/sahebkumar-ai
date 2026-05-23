@@ -1,7 +1,5 @@
 # Hey there! 👋
 
-# Hey there! 👋
-
 I'm **Saheb Kumar**, an **Artificial Intelligence and Machine Learning (AI/ML) student** with a strong interest in **Data Science, Machine Learning, and Artificial Intelligence**.
 
 Currently, I am working as a **Data Science Intern at Celebal Technologies**, where I am gaining hands-on experience in real-world data analysis and AI-driven solutions.
