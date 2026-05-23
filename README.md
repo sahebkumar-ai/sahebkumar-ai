@@ -1,16 +1,36 @@
-## Hi there 👋
+<# Hi, I'm Saheb Kumar 👋
 
-<!--
-**sahebkumar-ai/sahebkumar-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence and Machine Learning Student  
+💼 Data Science Intern @ Celebal Technologies  
+🚀 Passionate about Machine Learning, AI, and Data Science
 
-Here are some ideas to get you started:
+I am an AI & ML student who enjoys building data-driven solutions and learning modern AI technologies.  
+Currently exploring Machine Learning, Deep Learning, NLP, and Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Machine Learning Projects
+- Data Analysis using Python
+- AI & Deep Learning
+- Internship projects at Celebal Technologies
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-Learn
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- NLP
+- Generative AI
+- Python
+- MLOps
+
+- LinkedIn: https://www.linkedin.com/in/saheb-kumar-0b52963ab/
+- Kaggle:https://www.kaggle.com/sahebkumaryadav
+- Email: sahebkumaryadav91550@gmail.com
+
+I love learning new technologies and building real-world AI projects.!--
